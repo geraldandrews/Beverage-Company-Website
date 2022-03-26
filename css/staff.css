@@ -102,6 +102,10 @@
     margin: 25px 25px;
     border-radius: 5px;
   }
+
+  .photos .family-img {
+    width: 50%;
+  }
   
   @media (max-width: 1024px) {
     .staff-card {
@@ -143,6 +147,10 @@
     .photos img {
       width: 75%;
     }
+    
+    .photos .family-img {
+      width: 75%;
   }
+}
   
   
