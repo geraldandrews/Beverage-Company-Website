@@ -1,23 +1,12 @@
-// $(document).ready(function () {
- // $(".menu-button").click(function () {
-   // $(".navbar-links").slideToggle(500);
-  // })
-
-// })
-
 const navToggle = document.querySelector(".nav-toggle");
 const links = document.querySelector(".links");
 
 navToggle.addEventListener("click", function () {
-  // console.log(links.classList);
-  // console.log(links.classList.contains("random"));
-  // console.log(links.classList.contains("links"));
    if (links.classList.contains("show-links")) {
      links.classList.remove("show-links");
    } else {
      links.classList.add("show-links");
    }
-  //links.classList.toggle("show-links"); 
 });
 
 
@@ -39,24 +28,6 @@ $('.btn a').on('click', function(event) {
     );
   }
 });
-
-// var modal = document.querySelector('.modal-bg');
-// var btns = document.querySelectorAll('.button'); 
-// var span = document.getElementsByClassName("close")[0];
-
-// [].forEach.call(btns, function(el) {
-  // el.onclick = function() {
-     // modal.style.display = "block";
- // }
-// })
-// span.onclick = function() {
-    // modal.style.display = "none";
-// }
-// window.onclick = function(event) {
-   // if (event.target == modal) {
-      //  modal.style.display = "none";
-    // }
-// } 
 
 var btns = document.querySelectorAll('.button');
 
@@ -82,4 +53,11 @@ window.onclick = function(e) {
   }
 };
 
+// AOS Animation
+AOS.init({
+  // once: true,
+  // offset: 200, // offset (in px) from the original trigger point
+  delay: 0, // values from 0 to 3000, with step 50ms
+  duration: 1000 // values from 0 to 3000, with step 50ms
+});
 
