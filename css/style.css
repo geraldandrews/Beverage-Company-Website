@@ -503,6 +503,7 @@ nav {
   text-align: center;
   background: var(--blue);
   color: var(--white);
+  border-bottom: 2px solid #fff;
 }
 
 .footer .company-tag {
