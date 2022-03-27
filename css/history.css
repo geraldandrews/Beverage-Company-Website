@@ -31,6 +31,7 @@
     width: 600px;
     text-align: center;
     color: var(--dark);
+    line-height: 25px;
   }
   
   .open p:nth-child(3) {
