@@ -552,6 +552,9 @@ nav {
     width: 35%;
   }
   
+  .divider {
+    width: 75%;
+  
   .designer {
     padding: 25px 50px;
     line-height: 25px;
