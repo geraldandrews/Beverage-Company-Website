@@ -1,8 +1,3 @@
-/* Global */
-p {
-    line-height: 25px;
-}
- 
 /* Operations */
 .operations {
     background: var(--dark);
