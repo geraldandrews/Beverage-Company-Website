@@ -132,6 +132,10 @@ nav {
   letter-spacing: 2px;
 }
 
+.content h2 {
+  letter-spacing: 2px;
+}
+
 .content h4 {
    font-size: 2rem;
    color: var(--white);
