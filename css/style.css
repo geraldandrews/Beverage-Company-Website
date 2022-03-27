@@ -135,7 +135,7 @@ nav {
 .content h4 {
    font-size: 2rem;
    color: var(--white);
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 
 @media (max-width: 900px) {
