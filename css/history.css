@@ -107,10 +107,6 @@
   }
 
   @media (max-width: 600px) {
-    .open p {
-      width: 100%;
-    }
-    
     .celebrations .container .balloon-img {
       width: 50%;
     }
