@@ -531,12 +531,12 @@ nav {
   font-style: italic;
 }
 
-.divider {
+/*.divider {
   width: 90%;
   height: 2px;
   margin: auto;
   background: var(--white);
-}
+}*/
 
 .designer {
    background: var(--blue);
