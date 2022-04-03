@@ -46,7 +46,7 @@
   
   .production-line-card { 
     width: 23%; 
-    background: var(--blue);
+    background: var(--dark);
     color: var(--white);
     text-align: center;
     border-radius: 5px;
