@@ -2,5 +2,5 @@
 ### Live Site: https://blfdbeverage.netlify.app/
 
 ## Description
-This is a fictional beverage company website I developed and designed using HTML,CSS,Javascript, and GIMP.
+I was inspired to create this website in memory of a beverage company I worked at for 13 years before it closed. I designed this website from scratch using HTML, CSS, Javascript, GIMP to create some of the images, and animations using AOS(Animate On Scroll library).
 
